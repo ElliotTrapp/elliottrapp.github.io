@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "elliottrapp.com",
     "description": "",
-    "home_page_url": "https://elliottrapp.github.io",
-    "feed_url": "https://elliottrapp.github.io/feed.json",
+    "home_page_url": "https://elliottrapp.com",
+    "feed_url": "https://elliottrapp.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Elliot Trapp"
     },
     "items": [
         {
-            "id": "https://elliottrapp.github.io/test.html",
-            "url": "https://elliottrapp.github.io/test.html",
+            "id": "https://elliottrapp.com/test.html",
+            "url": "https://elliottrapp.com/test.html",
             "title": "test",
             "summary": "dfadsf Dog",
             "content_html": "<p>dfadsf</p>\n<h1 id=\"dog\">Dog</h1>\n",

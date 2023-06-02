@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>elliottrapp.com</title>
-    <link href="https://elliottrapp.github.io/feed.xml" rel="self" />
-    <link href="https://elliottrapp.github.io" />
+    <link href="https://elliottrapp.com/feed.xml" rel="self" />
+    <link href="https://elliottrapp.com" />
     <updated>2023-06-02T12:58:46-07:00</updated>
     <author>
         <name>Elliot Trapp</name>
     </author>
-    <id>https://elliottrapp.github.io</id>
+    <id>https://elliottrapp.com</id>
 
     <entry>
         <title>test</title>
         <author>
             <name>Elliot Trapp</name>
         </author>
-        <link href="https://elliottrapp.github.io/test.html"/>
-        <id>https://elliottrapp.github.io/test.html</id>
+        <link href="https://elliottrapp.com/test.html"/>
+        <id>https://elliottrapp.com/test.html</id>
 
         <updated>2023-06-02T12:58:46-07:00</updated>
             <summary>
