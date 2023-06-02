@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>elliottrapp.com</title>
+    <link href="https://elliottrapp.github.io/feed.xml" rel="self" />
+    <link href="https://elliottrapp.github.io" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>Elliot Trapp</name>
+    </author>
+    <id>https://elliottrapp.github.io</id>
+
+</feed>
