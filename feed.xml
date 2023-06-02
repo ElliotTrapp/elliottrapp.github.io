@@ -3,12 +3,36 @@
     <title>elliottrapp.com</title>
     <link href="https://elliottrapp.com/feed.xml" rel="self" />
     <link href="https://elliottrapp.com" />
-    <updated>2023-06-02T12:58:46-07:00</updated>
+    <updated>2023-06-02T16:07:22-07:00</updated>
     <author>
         <name>Elliot Trapp</name>
     </author>
     <id>https://elliottrapp.com</id>
 
+    <entry>
+        <title>People I Like</title>
+        <author>
+            <name>Elliot Trapp</name>
+        </author>
+        <link href="https://elliottrapp.com/people-i-like.html"/>
+        <id>https://elliottrapp.com/people-i-like.html</id>
+
+        <updated>2023-06-02T16:07:22-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Software I Like</title>
+        <author>
+            <name>Elliot Trapp</name>
+        </author>
+        <link href="https://elliottrapp.com/software-i-like.html"/>
+        <id>https://elliottrapp.com/software-i-like.html</id>
+
+        <updated>2023-06-02T16:07:13-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>test</title>
         <author>
